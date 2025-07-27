@@ -69,7 +69,7 @@ GRANT ALL PRIVILEGES ON DATABASE todolist_db TO todolist_user;
 
 ### 1. Clonar o Repositório
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/RodrigoVictor01/todo-list-backend.git
 cd todolist
 ```
 
